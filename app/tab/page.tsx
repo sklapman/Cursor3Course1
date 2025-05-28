@@ -1,7 +1,4 @@
 // lets create a new page that uses cursor tab features 
-// Import the Link component from Next.js for client-side navigation
-import Link from 'next/link';
-
 // Add a button component that links to Cursor's website
 // We'll use an anchor tag with button styling since it's an external link
 const CursorButton = () => (

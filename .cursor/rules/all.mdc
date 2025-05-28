@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+We are using next.js, shadcn, tailwind for our frontend stack
